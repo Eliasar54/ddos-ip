@@ -1,0 +1,14 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Un proyecto con dependencias básicas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tcp.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
